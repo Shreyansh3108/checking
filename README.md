@@ -1,40 +1,67 @@
-# 👋 Hi, I'm Shreyansh Dwivedi
+# 👨‍💻 Shreyansh Dwivedi
 
-🚀 Passionate Full-Stack Developer | DSA Enthusiast | Building Scalable Web Solutions  
-💡 Focused on problem-solving, design, and performance — transforming ideas into reliable systems.  
-📍 Currently exploring advanced DSA patterns & system design while working on real-world web apps.
+🚀 *Transforming ideas into scalable solutions with code, design, and resilience.*
 
 ---
 
-## 💻 Tech Stack
-**Frontend:** React.js, Next.js, Tailwind CSS  
+### 💼 About Me  
+I’m a **Full Stack Developer | Aspiring SDE**, passionate about building scalable, high-performance applications.  
+Strong foundation in **Data Structures, Algorithms, and System Design** — always aiming for clean, efficient, and maintainable solutions.
+
+🔗 **Portfolio:** [shreyansh-dwivedi-portfolio-vmzt.vercel.app](https://shreyansh-dwivedi-portfolio-vmzt.vercel.app)  
+📧 **Email:** shreyanshdwivedi0811@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/shreyansh-dwivedi08](https://linkedin.com/in/shreyansh-dwivedi08)  
+💻 **LeetCode:** [leetcode.com/u/Shreyansh_08/](https://leetcode.com/u/Shreyansh_08/)  
+
+---
+
+### 🧠 Tech Stack
+
+**Frontend:** React.js, Next.js, TailwindCSS  
 **Backend:** Node.js, Express.js  
-**Database:** MongoDB, MySQL  
-**Others:** REST APIs, JWT Auth, Git, Cloud Deployment
+**Database:** MongoDB, MySQL, Firebase  
+**Others:** REST APIs, JWT Auth, Socket.io, Git, Vercel  
 
 ---
 
-## 📈 Coding Stats
+### 🚀 Featured Projects
 
-### 🧩 LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Shreyansh_08?ext=contest&theme=dark&font=Baloo%202&border=0)](https://leetcode.com/u/Shreyansh_08/)
+| Project | Description | Tech Stack | Link |
+|:--------|:-------------|:------------|:-----|
+| **Cipher Shield** | Full-stack secure messaging system with AES encryption, JWT auth & ransomware detection. | Django, Streamlit, Redis, Python | [🔗 Demo](https://cipher-shield.vercel.app) |
+| **InsightBoard** | Data visualization dashboard for CSV datasets with dynamic charts. | React.js, TailwindCSS, Recharts | [🔗 Demo](https://insightboard.vercel.app) |
+| **Wealth Sync** | Personal finance tracker to manage spending & savings. | Next.js, TailwindCSS | 🔗 Coming Soon |
 
 ---
 
-### 💼 GitHub Overview
+### 📈 LeetCode Stats
+
+[![LeetCode Streak](https://leetcard.jacoblin.cool/Shreyansh_08?ext=heatmap&theme=dark)](https://leetcode.com/u/Shreyansh_08/)  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Shreyansh_08?theme=dark&font=Baloo%202&border=0)](https://leetcode.com/u/Shreyansh_08/)
+
+---
+
+### 📊 GitHub Analytics
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyansh08&show_icons=true&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shreyansh08&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh08&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🌟 Projects
-- **💰 WealthSync** – Personal Finance Tracker built with Next.js & Tailwind  
-- **📬 ChatSphere** – Real-time Chat App using Node.js, Socket.io, and MongoDB  
-- **🔐 Cipher Shield** – Cryptography-based Data Security Suite  
+### 🏆 Achievements
+- 🧩 **LeetCode Rating:** 1600+ (Top 20%)  
+- 💡 Solved 600+ DSA problems (Array, DP, Graph, Tree)  
+- 🧠 Strong foundation in OS, DBMS, CN, and System Design  
+- 🧱 **Full Stack Intern @ Future Interns** — built production-level features  
+- 🥇 Hackathon Finalist | Deployed 6+ full-stack apps  
 
 ---
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreyansh_Dwivedi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreyansh-dwivedi08)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Shreyansh_08-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Shreyansh_08/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel)](https://your-portfolio-link-here)
+### 🤝 Let’s Collaborate  
+Currently open for **Full-Stack / SDE roles** — internship + PPO.  
+If you’re hiring or want to collaborate, let’s connect!  
+
+📩 **Reach me at:** `shreyanshdwivedi0811@gmail.com`
+
+---
