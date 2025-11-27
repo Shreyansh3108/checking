@@ -20,19 +20,13 @@
 
 ## 📂 Featured Projects (Aligned with Resume)
 
+### **WealthSync**
+
 ### 🔒 **Cipher Shield**
 > A secure real-time chat application integrating AES, RSA, ECC, and threat detection using cryptographic algorithms and AI-based classifiers.  
 **Tech Stack:** React, Flask, Python, Socket.io, AES, RSA, ECC  
 **Features:** End-to-end encryption, live threat detection, message integrity verification.  
 🔗 [GitHub Repository](https://github.com/Harshit0502/Cipher_Shield_V3_unDER_DEV)
-
----
-
-### 💼 **MCP360 – Micro Collection Partner System**
-> A full-stack collection management system for pickup partner tracking, wallet, order, and transaction management.  
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Razorpay API, Tailwind CSS  
-**Features:** Partner dashboard, wallet & transactions, order allocation, Google Maps integration, leaderboards.  
-🔗 [GitHub Repository](https://github.com/Shreyansh3108/MCP360)
 
 ---
 
